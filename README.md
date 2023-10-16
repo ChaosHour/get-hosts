@@ -3,7 +3,7 @@ Python3 script that loops through a Repo to get all the FQDNs and has a search a
 
 # Environment
 ```Python
-pipenev shell 
+pipenv shell 
 pipenv install
 ```
 
