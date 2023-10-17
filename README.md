@@ -9,10 +9,10 @@ pipenv install
 
 or
     
-    ```Python
-    pip install -r requirements.txt
-    ```
-    
+```Python
+pip install -r requirements.txt
+```
+
 
 # usage
 ```Python
