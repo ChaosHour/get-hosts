@@ -7,6 +7,13 @@ pipenv shell
 pipenv install
 ```
 
+or
+    
+    ```Python
+    pip install -r requirements.txt
+    ```
+    
+
 # usage
 ```Python
 ./get-hosts.py /path/to/repo/ -s search_argument
