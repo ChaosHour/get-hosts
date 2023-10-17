@@ -16,5 +16,5 @@ pip install -r requirements.txt
 
 # usage
 ```Python
-./get-hosts.py /path/to/repo/ -s search_argument
+./ghost.py /path/to/repo/ -s search_argument
 ```
